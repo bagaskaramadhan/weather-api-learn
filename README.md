@@ -3,15 +3,14 @@ Weather Dashboard API adalah sebuah proyek backend yang dibangun menggunakan Nod
 Proyek ini menyediakan endpoint untuk mendapatkan cuaca saat ini dan riwayat cuaca yang disimpan di MongoDB.
 
 ## Fitur
-Mendapatkan cuaca saat ini berdasarkan nama kota.
-Menyimpan data cuaca ke MongoDB.
-Mengambil riwayat data cuaca yang disimpan.
-Memperbarui data cuaca berdasarkan ID.
+- Mendapatkan cuaca saat ini berdasarkan nama kota.
+- Menyimpan data cuaca ke MongoDB.
+- Mengambil riwayat data cuaca yang disimpan.
 
 ## Teknologi yang Digunakan
-Node.js
-Express
-Mongoose
-Axios
-MongoDB
-dotenv
+- Node.js
+- Express
+- Mongoose
+- Axios
+- MongoDB
+- dotenv
